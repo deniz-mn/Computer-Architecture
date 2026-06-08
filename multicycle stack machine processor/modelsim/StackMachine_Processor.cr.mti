@@ -1,0 +1,50 @@
+../src/Stack.v {1 {vlog -work work -stats=none ../src/Stack.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Stack
+
+Top level modules:
+	Stack
+
+} {} {}} ../testbench/tb.v {1 {vlog -work work -stats=none ../testbench/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_Top_1
+
+Top level modules:
+	tb_Top_1
+
+} {} {}} ../src/ALU.v {1 {vlog -work work -stats=none ../src/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} ../src/controller.sv {1 {vlog -work work -sv -stats=none ../src/controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} ../src/Datapath.v {1 {vlog -work work -stats=none ../src/Datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} ../src/TopModule.v {1 {vlog -work work -stats=none ../src/TopModule.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TopModule
+
+Top level modules:
+	TopModule
+
+} {} {}} ../src/Memory.v {1 {vlog -work work -stats=none ../src/Memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}
